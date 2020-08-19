@@ -65,7 +65,7 @@ Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Explicit
-
+'test
 Private Sub Command1_Click()
 
     Dim objSecond As SecondVB.Class2
